@@ -2,6 +2,8 @@
 
 I have recently got into creating Shortcuts for iOS and WatchOS, especially those I can use with the Action Button. I have put the base Shortcuts at the top so you can create them first, and then create the menus below (if you wish).
 
+If you're looking for my list of good, free Mac Apps, have a look [here](https://github.com/jamesjingyi/free-mac-apps)
+
 # Base Shortcuts
 
 ## 🔗 Share Sheet
